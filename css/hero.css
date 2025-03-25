@@ -1,6 +1,6 @@
 .hero {
 
-    background: url('/DSC00659.jpg') no-repeat center center/cover;
+    background-color: red; /* Testaa, näkyykö tausta */
     height: 500px;
     display: flex;
     align-items: center;
