@@ -1,5 +1,5 @@
 .hero {
-    background: url('../img/dsc00659.jpg') no-repeat center center/cover;
+    background: url('dsc00659.jpg') no-repeat center center/cover;
     height: 500px;
     display: flex;
     align-items: center;
