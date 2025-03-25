@@ -1,10 +1,10 @@
 // Taustakuvat, jotka haluat vaihtaa
 const images = [
-    'url("dsc00360.jpg")', // Vaihda tämä kuvan poluksi
-    'url("dsc00630.jpg")',
-    'url("dsc00689.jpg")',
-    'url("dsc00684.jpg")',
-    'url("dsc00659.jpg")'
+    'url("00360.jpg")', // Vaihda tämä kuvan poluksi
+    'url("DSC00630.jpg")',
+    'url("DSC00689.jpg")',
+    'url("DSC00684.jpg")',
+    'url("DSC00659.jpg")'
 ];
 
 let currentImageIndex = 0; // Aloitetaan ensimmäisestä kuvasta
