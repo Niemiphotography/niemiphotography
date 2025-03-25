@@ -1,6 +1,6 @@
 // Taustakuvat, jotka haluat vaihtaa
 const images = [
-    'url("00360.jpg")', // Vaihda tämä kuvan poluksi
+    'url("DSC00360.jpg")', // Vaihda tämä kuvan poluksi
     'url("DSC00630.jpg")',
     'url("DSC00689.jpg")',
     'url("DSC00684.jpg")',
